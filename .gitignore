@@ -208,4 +208,3 @@ __marimo__/
 
 # игнорируем лог и локальный конфиг
 scraper.log
-config.json
